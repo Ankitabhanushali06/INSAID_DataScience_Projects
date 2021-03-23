@@ -1,4 +1,4 @@
-# Market Backet Analysis of Facebook data
+# Market Backet Analysis of Groceries Data
 *Machine Learning Advance Project*
 
 ![enter image description here](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/Market_Basket_Analysis/1_z5zToUtprDu4Dz6_DLDIKA.jpeg?raw=true)
