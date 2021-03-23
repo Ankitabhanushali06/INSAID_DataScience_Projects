@@ -9,4 +9,5 @@ Here we Analyze how people using Facebook through comparing with Age & Gender.
 
 Please check out:
 - [Notebook](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/EDA/Analysis%20of%20Facebook%20data.ipynb)
-- [Presentation](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/EDA/)
+- [Presentation](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/EDA/Analysis%20of%20Facebook%20data.pdf)
+- [Recording](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/EDA/Analysis%20of%20Facebook%20Presenation.mp4)
