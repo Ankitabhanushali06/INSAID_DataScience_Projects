@@ -11,6 +11,6 @@ Compared various techniques for evauation:
 - Random Forest
 
 Please check out:
-- [Notebook](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/TimeSeries/Store%20Item%20demand%20forecast%20.ipynb)
-- [Presentation](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/TimeSeries/Store%20Item%20demand%20forecast.pdf)
-- [Recording](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/TimeSeries/Store%20Item%20demand%20forecast%20.mp4)
+- [Notebook](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/Foundation/AVOCADO.ipynb)
+- [Presentation](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/Foundation/Avocado%20dataset.pdf)
+- [Recording](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/Foundation/Avocado_Recording.mp4)
