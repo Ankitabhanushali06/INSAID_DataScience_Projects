@@ -1,4 +1,4 @@
-# Linear Regression , DT and RF Analysis of Avocado data
+# Linear Regression , DT and RF Analysis on Avocado data
 *Machine Learning Foundation Project*
 
 ![enter image description here](https://github.com/Ankitabhanushali06/INSAID_DataScience_Projects/blob/main/MachineLearning/Foundation/nautres-superfood-avocado.jpg?raw=true)
